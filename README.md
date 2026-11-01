@@ -3,8 +3,8 @@
 ### 关于开发者
 #### 你可以在以下平台找到我。
 ###### **WakuDemo**
-###### https://wakudemo.cn/users/7971
+https://wakudemo.cn/users/7971
 ###### **BiliBili**
-###### https://space.bilibili.com/3546714675874626
+https://space.bilibili.com/3546714675874626
 ###### **爱发电**
-###### https://afdian.com/a/yzbc1203
+https://afdian.com/a/yzbc1203
